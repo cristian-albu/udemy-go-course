@@ -5,3 +5,5 @@ use ./section-2/9-packages
 use ./section-2/10-channels
 
 use ./section-2/12-testing
+
+use ./section-3
