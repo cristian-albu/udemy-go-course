@@ -1,2 +1,7 @@
-go 1.21
+go 1.21.1
 
+use ./section-2/9-packages
+
+use ./section-2/10-channels
+
+use ./section-2/12-testing
